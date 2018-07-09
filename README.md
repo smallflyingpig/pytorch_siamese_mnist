@@ -2,6 +2,7 @@
 
 This is a port of [pytorch-siamese](https://github.com/delijati/pytorch-siamese)
 
+thanks [Josip Delic](https://github.com/delijati) for releasing his code
 ## Install
 The project is based on python 3
 
