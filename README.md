@@ -24,5 +24,5 @@ $ python train_mnist.py -m model-epoch-7.pth
 
 ## Result
 
-![](https://raw.githubusercontent.com/delijati/pytorch-siamese/master/result.png)
+![](https://github.com/smallflyingpig/pytorch_siamese_mnist/blob/master/result.png)
 
